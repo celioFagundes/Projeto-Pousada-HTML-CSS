@@ -1,4 +1,4 @@
-# Projeto-Pousada-HTML-CSS
+# Projeto Pousada Secreta
 
 Projeto Pousada Secreta utilizando HTML e CSS
 

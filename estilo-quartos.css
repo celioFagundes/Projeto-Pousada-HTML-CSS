@@ -1,0 +1,45 @@
+
+/* Main*/
+
+.background-img{
+    height: 30vh;
+    
+}
+.quartos-img-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+.quartos-img-box img{
+    height: 200px;
+    width: 350px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+
+}.quarto-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.quarto-info h3{
+    text-align: center;
+}
+.lista-info{
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+.lista-info li{
+    width: 200px;
+    margin-right: 50px;
+    padding: 10px 0;
+  
+}
+
+
